@@ -30,13 +30,13 @@ Comprender y utilizar las herramientas Git y Github para su creación y control 
 
 
 ## Estructura del repositorio
-**README.md:** documento que describe el proyecto y el proceso realizado.
+- **README.md:** documento que describe el proyecto y el proceso realizado.
 
-**documentos/:** carpeta destinada a los archivos de los capítulos del tutorial, en formatos TXT, Word y PDF.
+- **documentos/:** carpeta destinada a los archivos de los capítulos del tutorial, en formatos TXT, Word y PDF.
 
-**evidencias/:** carpeta destinada a almacenar las capturas de pantalla del desarrollo de la actividad.
+- **evidencias/:** carpeta destinada a almacenar las capturas de pantalla del desarrollo de la actividad.
 
-**Informe de proceso.pdf:** informe final con la descripción de las actividades, evidencias, dificultades, soluciones y conclusiones.
+- **Informe de proceso.pdf:** informe final con la descripción de las actividades, evidencias, dificultades, soluciones y conclusiones.
 
 
 ## Procedimiento Realizado
