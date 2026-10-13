@@ -51,4 +51,4 @@ Comprender y utilizar las herramientas Git y Github para su creación y control 
 9. Documentación del proceso mediante capturas de pantalla e informe final
 
 ## Conclusion
-Esta actividad permite comprender la importancia del control de versiones en los proyectos de software y ciendcia de datos.
+Esta actividad permite comprender la importancia del control de versiones en los proyectos de software y ciencia de datos.
