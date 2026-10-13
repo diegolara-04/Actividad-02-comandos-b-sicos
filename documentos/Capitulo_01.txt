@@ -1,0 +1,30 @@
+Capitulo 01  Inicio - Sobre el Control de Versiones
+
+¿Qué es Git?
+
+Git es un sistema de control de versiones distribuido que permite registrar los cambios realizados en los archivos de un proyecto. Facilita consultar versiones anteriores, comparar modificaciones y trabajar de manera organizada.
+
+¿Qué es el control de versiones?
+
+Es un sistema que permite guardar un historial de los cambios realizados en los archivos, facilitando su seguimiento y recuperación.
+
+Historia
+
+Git fue creado por Linus Torvalds (el creador del núcleo de Linux) en 2005, lo creo porque la version anterior que se utilizaba BitKeeper dejo de ser gratuita para Linux, y en su búsqueda de un sistema que cumpliera con lo que se necesitaba, decidio crearlo con unos objetivos claros:
+-Velocidad
+-Diseño sencillo
+-Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+-Completamente distribuido
+-Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+
+¿Para qué sirve Git en ciencia de datos?
+
+Git permite mantener un historial de scripts, documentos, análisis y otros archivos utilizados en proyectos de ciencia de datos.
+
+Comandos básicos:
+
+git status: muestra el estado de los archivos. git add: prepara los cambios para confirmarlos. git commit: registra los cambios en el historial. git push: envía los commits al repositorio remoto.
+
+Conclusión:
+
+Git es una herramienta útil para organizar proyectos, documentar modificaciones y mantener un historial de trabajo.
