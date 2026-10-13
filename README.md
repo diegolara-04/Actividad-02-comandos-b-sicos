@@ -18,15 +18,15 @@ Comprender y utilizar las herramientas Git y Github para su creación y control 
 ## Herramientas utilizadas 
 
 
-**Git:** Sistema de control de versiones 
+- **Git:** Sistema de control de versiones 
 
-**Github:** Plataforma para alojar y administrar repositorios remotos
+- **Github:** Plataforma para alojar y administrar repositorios remotos
 
-**Github desktop:** Aplicación para la gestión y control de repositorios y sincronizar cambios 
+- **Github desktop:** Aplicación para la gestión y control de repositorios y sincronizar cambios 
 
-**Word:** Herramientas para elaborar los documentos
+- **Word:** Herramientas para elaborar los documentos
 
-**PDF:** Formato de exportación para los documentos
+- **PDF:** Formato de exportación para los documentos
 
 
 ## Estructura del repositorio
